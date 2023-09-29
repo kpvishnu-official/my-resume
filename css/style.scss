@@ -118,3 +118,7 @@ a {
 .border-bottom {
     border-bottom: 1px solid black;
 }
+
+.btn:hover, .btn:focus {
+    background-color: #FFEB3B;
+}
